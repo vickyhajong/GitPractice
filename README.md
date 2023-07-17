@@ -5,4 +5,4 @@ Git Practice with Python
 2. Write a script to get input line from the user and count the occurences of each letter in the line. 
 
 # Important 
-Clone this repository to you local machine. Create a branch with your Name_EMPID format. Add the above scripts into the branched tree and then merge the branch into the main thread. 
+Clone this repository to your local machine. Create a branch with your Name_EMPID. Add the above scripts into the branched tree and then merge the branch into the main thread. 
